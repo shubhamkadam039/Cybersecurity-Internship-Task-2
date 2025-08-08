@@ -23,7 +23,7 @@ Analyzed a sample phishing email impersonating Microsoft Office365 triggering a 
 This email contains multiple classic phishing markers and should be flagged as malicious.
 
 ## Screenshots
-See '//office365-phishing-example.png'
+See '/screenshots/office365-phishing-example.png'
 
 ---
 
