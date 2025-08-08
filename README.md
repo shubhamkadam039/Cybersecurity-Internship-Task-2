@@ -1,5 +1,5 @@
 # Cybersecurity-Internship-Task-2
-# Phishing Email Analysis — Cybersecurity Internship Task 2
+# Phishing Email Analysis
 
 ## Overview
 Analyzed a sample phishing email impersonating Microsoft Office365 triggering a "high-severity alert".
@@ -23,7 +23,7 @@ Analyzed a sample phishing email impersonating Microsoft Office365 triggering a 
 This email contains multiple classic phishing markers and should be flagged as malicious.
 
 ## Screenshots
-See '//office365-phishing-example'
+See '//office365-phishing-example.png'
 
 ---
 
