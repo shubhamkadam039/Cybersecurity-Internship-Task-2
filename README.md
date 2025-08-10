@@ -41,5 +41,5 @@ This sample demonstrates multiple classic phishing traits:
 - It is a type of 'Tech Support Phishing Scam'.
 
 ## Screenshots
-Attached with this repository
+Attached with this repository - 'office365-phishing-example.png'
 
