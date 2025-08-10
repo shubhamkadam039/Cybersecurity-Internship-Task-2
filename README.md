@@ -38,6 +38,7 @@ This sample demonstrates multiple classic phishing traits:
 - Suspicious call-to-action links.
 - Impersonation of trusted brands.
 - Lack of personalization and minor grammar errors.
+- It is a type of 'Tech Support Phishing Scam'.
 
 ## Screenshots
 Attached with this repository
